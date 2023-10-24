@@ -67,7 +67,7 @@ export const customTestimonialCertificate: TestimonialCertificate = {
     }
   ],
   recipient: {
-    name: "John Doe",
+    name: "Brahim Ali",
     nric: "S1234567J",
     studentId: "12345"
   },
@@ -75,10 +75,10 @@ export const customTestimonialCertificate: TestimonialCertificate = {
     role: "chairman",
     instituteName: "ABC Junior College",
     achievementArea: "No Idea",
-    achievementDate: "2016-11-21"
+    achievementDate: "2023-10-24"
   },
   referee: {
-    name: "Mrs Jane Doe",
+    name: "Mrs Arab Djeb",
     designation: "Director-General of Education Singapore",
     relationship: "teacher",
     seal:
@@ -91,7 +91,7 @@ export const customTestimonialCertificate: TestimonialCertificate = {
 export const customTestimonialCertificate2: TestimonialCertificate = {
   id: "testimonial-abcd2017-nric000G1002",
   description: "SGC Testimonial",
-  issuedOn: "2019-11-22T00:00:00+08:00",
+  issuedOn: "2023-10-24T00:00:00+08:00",
   name: "School Graduation Certificate Testimonial",
   content:
     "<p>To Whom it May Concern:</p><p>I am pleased to write a letter of recommendation for Cindy Neo Ai Ling.</p><p>I have known Cindy for over three years during which time she worked as an Administrative Assistant in my office. Throughout her time with our organization, she demonstrated critical skills that would make her an excellent employee at your company.</p><p>Cindy is both very bright and motivated. I am confident that she will devote herself to a position with your organization with a high degree of diligence. She is a quick learner and has shown the ability to digest large volumes of information.</p><p>Cindy was always willing to offer her assistance and had an excellent rapport with clients, employers,and other organizations.</p><p>I recommend Cindy without reservation. She would be an asset to any employer, and I wholeheartedly recommend her for any endeavour she chooses to pursue. Please let me know if you have need for additional information about this outstanding lady.</p><p>Sincerely</p>",
@@ -105,9 +105,9 @@ export const customTestimonialCertificate2: TestimonialCertificate = {
       name: "Ministry of Education",
       did: "DID:SG-UEN:U18274928E",
       uen: "U18274928E",
-      url: "https://www.moe.gov.sg",
-      email: "registrar@moe.gov.sg",
-      documentStore: "0x8Fc57204c35fb9317D91285eF52D6b892EC08cD3",
+      url: "https://www.moe.gov.dz",
+      email: "registrar@moe.gov.dz",
+      documentStore: "0xf81CF9F503f28FfE0FD4EFD16242FaEF7BF7A99a",
       identityProof: {
         type: "DNS-TXT",
         location: "example.openattestation.com"
@@ -115,14 +115,14 @@ export const customTestimonialCertificate2: TestimonialCertificate = {
     }
   ],
   recipient: {
-    name: "John Doe",
+    name: "Brahim Ali",
     nric: "S1234567J",
     studentId: "12345"
   },
   testimonial: {
     role: "chairman",
     instituteName: "ABC Junior College",
-    achievementArea: "No Idea",
+    achievementArea: "Informatics",
     achievementDate: "2016-11-21"
   },
   referee: {
