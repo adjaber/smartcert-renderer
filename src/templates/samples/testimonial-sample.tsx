@@ -59,10 +59,10 @@ export const customTestimonialCertificate: TestimonialCertificate = {
       uen: "U18274928E",
       url: "https://www.moe.gov.sg",
       email: "registrar@moe.gov.sg",
-      documentStore: "0x8Fc57204c35fb9317D91285eF52D6b892EC08cD3",
+      documentStore: "0xf81CF9F503f28FfE0FD4EFD16242FaEF7BF7A99a",
       identityProof: {
         type: "DNS-TXT",
-        location: "example.openattestation.com"
+        location: "successive-amaranth-lark.sandbox.openattestation.com"
       }
     }
   ],
