@@ -4,7 +4,7 @@ import { TemplateProps } from "@govtechsg/decentralized-renderer-react-component
 import { TestimonialCertificate } from "../samples";
 import styled from "@emotion/styled";
 import { css } from "@emotion/core";
-import moeLogo from "./moe-ministry-of-education-singapore.png";
+import moeLogo from "./ministry-of-national-education-in-algeria-seeklogo.com.png";
 import { Page, PageContainer, pageHeight } from "../../components/page";
 
 const header1Height = "8cm";
