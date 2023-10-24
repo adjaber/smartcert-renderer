@@ -169,7 +169,7 @@ export const TestimonialTemplate: FunctionComponent<TemplateProps<TestimonialCer
             <img src={moeLogo} />
           </div>
           <div className="title">Ministry of Education</div>
-          <div className="sub-title">Republic of Singapore</div>
+          <div className="sub-title">Republic of Algeria</div>
         </div>
       </div>
       <Separator>
